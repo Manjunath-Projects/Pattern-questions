@@ -5,3 +5,11 @@ solving the pattern questions on java
  * *
  * * *
  * * * *
+
+
+ 2]Pattern2:
+ 
+  *  *  *  *
+  *  *  *
+  *  *
+  *
